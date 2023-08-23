@@ -1,3 +1,4 @@
 hoy 
 ayer 
 mañana
+pasado
